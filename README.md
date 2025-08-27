@@ -21,6 +21,6 @@ Velkommen til min profil her på GitHub. Jeg er en elev av Gjennstad videregåen
 **Link til Gjennestad VGS** 🎓
 - https://www.gjennestadvgs.no
 
-**Bilde av meg siden jeg er en veldig kul person** 😎
+**Bilde av meg, siden jeg er en veldig kul person** 😎
 
  <img src="En_Veldig_Kul-Person.png" width="100"/>
