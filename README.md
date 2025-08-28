@@ -14,7 +14,7 @@ Velkommen til min profil her på GitHub. Jeg er en elev av Gjennstad videregåen
 - Inspirert av min far (han var programmerer).
 
 **Hva håper jeg å lære?** 🧐
-- Jeg håper at jeg for lært litt av hvert som koding, programmering og mer om hvordan en PC fungerer.
+- Jeg håper at jeg får lært litt av hvert som koding, programmering og mer om hvordan en PC fungerer.
 - Både cybersikkerhet og spillutvikling.
 - Hvordan jeg kan lage en nettside.
 
