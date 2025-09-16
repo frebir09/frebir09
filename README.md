@@ -22,9 +22,9 @@ Velkommen til min profil her på GitHub. Jeg er en elev av Gjennstad videregåen
 - https://www.gjennestadvgs.no
 
 <a href="https://www.gjennestadvgs.no">
-<img src="Gjennestad_Drift2.png" width="100">
+<img src="Gjennestad_Drift2.png" width="100" alt="Blide av Gjennestad VGS Logo">
 </a>
 
 **Bilde av meg, siden jeg er en veldig kul person** 😎
 
- <img src="En_Veldig_Kul-Person.png" width="125"/>
+ <img src="En_Veldig_Kul-Person.png" width="125" alt="Blide av Fredrik Birkely, ungdoms gutt, hvit bakgrunn">
